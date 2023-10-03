@@ -4,6 +4,14 @@
 
 Guided image filter and Weighted guided image filter in Julia
 
+Install the package by 
+
+```
+using Pkg
+Pkg.add("PkgTemplates")
+```
+
+
 ## Reimplement of Weight GIF and GIF from [MatLab](https://www.mathworks.com/help/images/ref/imguidedfilter.html)
 
 WgifGif.gif
