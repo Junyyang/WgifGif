@@ -1,0 +1,13 @@
+name = "WgifGif"
+uuid = "21a106a3-003a-4dd5-8146-9fcf00e0e5a1"
+authors = ["Junyuan-Yang", "Yilun-Zhu", "Jingying-Wang", "Zhiheng-Yin"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
